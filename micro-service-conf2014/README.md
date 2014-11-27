@@ -7,7 +7,9 @@ What a superb first day that was, plenty of recurring themes, and a huge amount 
 
 As with all things, even though the focus was on micro-services, what they are, and what it means, it all needs to be taken in the context of dedication to the craft of building things well. 
 
-Micro-services alone are not a solution to all life problems, they are not always the right thing to do, but in certain circumstances, and the right consideration they can be an incredibly powerful approach, or principle to unlock the ability to build software that delivers real value to users, and to adapt to the universe one true constant, change.
+Micro-services alone are not a solution to all lifes problems, they are not always the right thing to do, but in certain circumstances, and with the right consideration they can be an incredibly powerful approach, or principle to unlock the ability to build software that delivers real value to users, and to adapt to the universe one true constant, change.
+
+This blog posting will evolve, as I try to tie together the various ideas the presenters provided into a more coherent message, as usual, there are common threads that run through them, just need to weave them together :)
 
 1. [Russ Miles - Microservices Myth](RussMilesKeynote.md)2. [James Lewis - Choices and Challenges](JamesLewis_ChoicesAndChallenges.md )3. [Michal Rutkowski - Agile Organisation](MichalRutkowski_AgileOrganization.md)
 4. [Squirrel on SPIN](Squirrel_NewTechnicalIdeas.md)
