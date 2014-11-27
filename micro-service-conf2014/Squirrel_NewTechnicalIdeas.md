@@ -3,6 +3,10 @@ Douglas Squirrel
 
 ![Crossing the Chasm](http://paulgstacey.files.wordpress.com/2010/09/technologyadoptionlifecycle3.jpg)
 
+___
+
+### Technology Adoption Life Cycle
+
 Innovators just try stuff out.
 
 Early Adopters try stuff out to get an improvement, not averse to experimentation.
@@ -24,7 +28,7 @@ This isn't just about µ-services, but any solution (or outcome as suggested in 
 
 It can also be applied to an existing solution, which can be helpful when reviewing existing decisions.
 
-#### Situation
+#### 1. Situation
 What is the general situation, are we a startup, or a long established company who are being disrupted by smaller outfits...etc. etc.
 
 To expand a bit further...
@@ -35,7 +39,7 @@ How many customers do they have?
 
 What is the culture within the company?
 
-#### Problem
+#### 2. Problem
 What is the specific problem we are dealing with...
 
 Is it maybe customer retention, is someone else stealing their customer base.
@@ -44,13 +48,13 @@ Has someone got a better, cheaper, faster way to do things?
 
 Is the system way too difficult to use...
 
-#### Implication
+#### 3. Implication
 So what is happening because of this? What are we losing out on?
 
 Customers leave en masse, company dies.
 
 
-#### Need-Payoff
+#### 4. Need-Payoff
 Do the business really care that much? Is it so bad if the thing keeps happening?
 
 What is the thing you get by implementing your solution...do we save time, do we reduce bugs, can we react to change faster?
@@ -62,3 +66,20 @@ This all sounds great, whats this going to cost though? What are the risks?
 How can you help people understand what this will give them?
 
 Think hard about the cost and the approach, is it an all or nothing situation...do we destroy a monolith entirely, or do we pick out problem parts bit by bit...again, relate this back to value.
+
+Consider the risk involved in implementing the solution.
+
+Be prepared to investigate further, go off and research, and answer questions in a way that stakeholders understand.
+
+## As an aside
+Prefers horrible API mess vs Pub-Sub architecture
+
+___
+
+References:
+	
+[SPIN-selling - Neil Rackman](http://www.amazon.co.uk/SPIN-selling-Neil-Rackham/dp/0566076896)
+
+[Crossing the Chasm - Geoffrey Moore](http://www.amazon.co.uk/Crossing-Chasm-3rd-Disruptive-Mainstream/dp/0062292986/ref=sr_1_1?s=books&ie=UTF8&qid=1417097853&sr=1-1&keywords=crossing+the+chasm)
+
+[Douglas Squirrel](http://douglassquirrel.com/)
