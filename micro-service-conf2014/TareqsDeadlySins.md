@@ -3,7 +3,10 @@ Tareq Abedrabbo
 
 This talk was based on Tareq's original post here:
 
+Blog Post:
 [The 7 Deadly Sins of Microservices](http://www.opencredo.com/2014/11/19/7-deadly-sins-of-microservices/)
+
+Slides: [The 7 Deadly Sins of Microservices](https://speakerdeck.com/tareqabedrabbo/the-7-deadly-sins-of-microservices)
 
 ___
 
