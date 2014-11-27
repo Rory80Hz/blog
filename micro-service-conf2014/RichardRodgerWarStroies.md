@@ -17,9 +17,9 @@ Messages should just be JSON documents, properties are key value pairs.
 
 ```json
 {
-	"info": "user"
-	"what":	"login"
-	"when":	"2014-10-10T10:10:10"
+	"info": "user",
+	"what":	"login",
+	"when":	"2014-10-10T10:10:10",
 	"user":	{....}}
 ```
 
