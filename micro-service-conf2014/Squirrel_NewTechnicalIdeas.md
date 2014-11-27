@@ -72,7 +72,7 @@ Consider the risk involved in implementing the solution.
 Be prepared to investigate further, go off and research, and answer questions in a way that stakeholders understand.
 
 ## As an aside
-Prefers horrible API mess vs Pub-Sub architecture
+Prefers Pub-Sub architecture vs horrible API mess...more on this some other time!
 
 ___
 
