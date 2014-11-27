@@ -100,7 +100,9 @@ You can ensure they work by running old and new side by side, see James talk abo
 For Java see:
 
 * [Hystrix](https://github.com/Netflix/Hystrix)
+* [Akka Persistence](http://doc.akka.io/docs/akka/snapshot/scala/persistence.html)
 
 .NET see 
 
 * [NServiceBus](http://particular.net/nservicebus)
+* [NEventStore](http://neventstore.org/)
