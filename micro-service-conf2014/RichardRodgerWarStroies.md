@@ -62,10 +62,15 @@ An example system big enough to be interesting.
 Check it out.
 
 ## 💩- Sad Times
+### Some common pitfalls:
 
 Lots of little web servers talking to each other, this never ends well.
 
-Defining schemas for things...remember accept junk, send good stuff...Be liberal in what you etc.
+Defining schemas for things...remember accept junk, send good stuff...
+
+> Be conservative in what you do, be liberal in what you accept from others.
+> 
+> Postel's law
 
 Using any language! Hooray! Maybe sometimes not so cool (not sure about this) but at least pick a language and stick with it, but actually, you can use this approach to get out of jail. I guess the point here is consider maintainability.
 
@@ -76,7 +81,7 @@ Don't keep state in services. This is totally not cool.
 Beware the cargo cult mentality...think about it properly, don't just ape what others are doing.
 
 ## 🚀- Awesome Times
-Something not mentioned was that this is all predicated on messages and message stores, and all of the important things like idempotency and safety. (missed these points in what was said.)
+Something not mentioned was that this is all predicated on messages and message stores, and all of the important things like idempotency and safety.
 
 You can easily swop out components.
 
@@ -84,7 +89,7 @@ Persistence is not as much of a thing, you can use in memory databases etc. You 
 
 Enables quicker continuous deployment. The services are the unit of deployment.
 
-You can ensure they work by running old and new side by side, see James talk about blue green deployments, and Michal's talk where he mentioned Shadow Deployment...run both, route both and ensure by monitoring the new version works! Badass. On this point i'd suggest reading a bit about actual proper scientific A/B testing...having proper measurements etc. (Will find blog posts about this later). Pushing this to the extreme your QA process is this measurement of performance (in the broad sense) on production.
+You can ensure they work by running old and new side by side, see James talk about blue green deployments, and Michal's talk where he mentioned Shadow Deployment...run both and ensure by monitoring the new version works! Badass. On this point i'd suggest reading a bit about actual proper scientific A/B testing...having proper measurements etc. (Will find blog posts about this later). Pushing this to the extreme your QA process is this measurement of performance (in the broad sense) on production.
 
 ## Some technologies
 * [senecajs.org](senecajs.org)
