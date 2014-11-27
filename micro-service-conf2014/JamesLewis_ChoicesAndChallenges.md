@@ -1,4 +1,4 @@
-# Microservices - choices and challenges 
+# Micro-services - choices and challenges 
 James Lewis
 
 ## Why?
