@@ -4,3 +4,4 @@ My notes from Day One and Two of the µ-services conference. Mostly my interpret
 1. [Russ Miles - Microservices Myth](RussMilesKeynote.md)2. [James Lewis - Choices and Challenges](JamesLewis_ChoicesAndChallenges.md )3. [Michal Rutkowski - Agile Organisation](MichalRutkowski_AgileOrganization.md)
 4. [Squirrel on SPIN](Squirrel_NewTechnicalIdeas.md)
 5. [Richard Rodger - War Stories](RichardRodgerWarStroies.md)6. [Tareq Abedrabbo - 7 Deadly Sins](TareqsDeadlySins.md)
+7. [Viktor Klang - Keynote: How reality shapes microservice architectures ](VictorKlangReality.md)
