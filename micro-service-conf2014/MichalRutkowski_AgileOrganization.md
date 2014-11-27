@@ -90,6 +90,7 @@ Deploymancy - packaging and deployment
 * [Telemtry](https://github.com/yammer/telemetry) Feature tracing (we built something similar)
 * [tenacity](https://github.com/yammer/tenacity) (Wrapper for Hystrix and Dropwizard)
 * [breakerbox](https://github.com/yammer/breakerbox)- monitoring tool for circuit breakers
+* [Saboteur](https://github.com/tomakehurst/saboteur) - Injects Network Faults (not in use at Yammer)
 
 ### How do they test product features?
 * experiments A/B testing
