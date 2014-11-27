@@ -3,7 +3,8 @@ Viktor Klang
 
 ___
 
-This one is pretty abstract! Hard to follow from the notes.
+This one is pretty abstract! Hard to follow from the notes. Basically, think about systems in reality and how they work...
+
 ___
 
 > If you cannot solve a problem without programming, you cannot solve a problem with programming.
@@ -104,6 +105,66 @@ This is specific to queue length, and managing flow control. watch out for the h
 * We cannot wait forever
 * We cannot afford to actively weight
 * There's always a Plan B
-* 
 
+## Byzantine coordination
+See [The Saddest Moment](http://research.microsoft.com/en-us/people/mickens/thesaddestmoment.pdf)
 
+## Responsibility
+aka why it is bad to have
+
+* Multiple responsibility
+	* creates conflict regarding priorities
+	* lowers reliability
+		* increases collateral damage
+		* decreases predictability
+		* hides the cause from the outside
+
+## Resilience
+* Never assume other entities are immortal. Things will fail.
+* Treat expectation violations as failures
+* Always have a Plan B
+* Clients are not responsible to fix a faulty provider
+* Fail fast
+* Fail predictably
+	* If we don't force failures how do we know what happens?
+
+## Postel's Law
+> Be conservative in what you do, be liberal in what you accept from others.
+> 
+> Postel's law
+
+We do this, we reduce the chatter, lowers latency.
+
+## Death
+How do we know a component is dead?
+
+## Zombie Apocalypse
+Say 3 people have some task to co-ordinate, at what point do you clear off after one person goes out of contact?
+
+What if the loom on the horizon, wandering forwards...slowly...
+
+They are dead. Move on.
+
+## Supervision
+* When things go wrong, some person is responsible for sorting it out.
+* Does not place burden of fixing it on collaborators
+* You will get to a point when you are totally hosed
+
+## Hard to kill
+* Isolate
+* Replicate
+* Spread / Distribute
+* Control Flow
+* Predict changes in load
+* React to changes in load
+
+## Final thought
+* Isolate and Contain
+* SRP
+* Communicate Async
+* Delegate and Retain Control
+* Avoid coordination
+* Minimize contention
+* Embrace inconsistency
+
+Go back to the conjecture at the start.
