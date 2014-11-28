@@ -15,3 +15,10 @@ This blog posting will evolve, as I try to tie together the various ideas the pr
 4. [Squirrel on SPIN](Squirrel_NewTechnicalIdeas.md)
 5. [Richard Rodger - War Stories](RichardRodgerWarStroies.md)6. [Tareq Abedrabbo - 7 Deadly Sins](TareqsDeadlySins.md)
 7. [Viktor Klang - Keynote: How reality shapes microservice architectures ](VictorKlangReality.md)
+
+
+## Day Two
+
+1. [Udi Dahan - Keynote: An Integrated Services Approach ](UdiDahanIntegratedServices.md)
+2. [Reactor and Reactive Streams to power your MicroService Architecture 
+Stéphane Maldini](StephaneMaldini_ReactorandReactive.md)

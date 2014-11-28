@@ -92,6 +92,7 @@ Enables quicker continuous deployment. The services are the unit of deployment.
 You can ensure they work by running old and new side by side, see James talk about blue green deployments, and Michal's talk where he mentioned Shadow Deployment...run both and ensure by monitoring the new version works! Badass. On this point i'd suggest reading a bit about actual proper scientific A/B testing...having proper measurements etc. (Will find blog posts about this later). Pushing this to the extreme your QA process is this measurement of performance (in the broad sense) on production.
 
 ## Some technologies
+
 * [senecajs.org](senecajs.org)
 * [nodejs.org](nodejs.org)
 * [nearform.com/nscale](nearform.com/nscale)
@@ -106,3 +107,9 @@ For Java see:
 
 * [NServiceBus](http://particular.net/nservicebus)
 * [NEventStore](http://neventstore.org/)
+
+## Blog post with a working example
+[Build a Search Engine for Node.js Modules using Microservices (Part 1)](http://blog.skillsmatter.com/2014/09/10/build-a-search-engine-for-node-js-modules-using-microservices-part-1/)
+
+[Build a Search Engine for Node.js Modules using Microservices (Part 2)](http://blog.skillsmatter.com/2014/09/17/build-a-search-engine-for-node-js-modules-using-microservices-part-2/)
+
