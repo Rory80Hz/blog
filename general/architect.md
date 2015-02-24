@@ -49,6 +49,8 @@ What they *do* is guide teams, leverage their experience to harness the expertis
 
 Ultimately this may result in decisions getting made on data stores, communication protocols, layers, message buses etc. but that is not the unit of work you deal with, you deal with people, to get the best out of them, to arrive at the finest possible solution you can.
 
+For me, the ability to do this diminishes the further away you are from the people who share the work of building things on a daily basis. You need to be involved. You need to lift the bricks into place, you need to see when the square box, didn't fit into the round hole, and see the angle grinder techniques used to make that work....
+
 Just because we use the term Architecture for the bits of the system that are difficult to change, and, of itself, it is a good word to describe that, it does not mean that one person is the Architect, because really, the role you are fulfilling is way more than that.
 
-So, really, Architect is a shit word for that.
+So, really, Architect is a shit word for that role...not sure quite what is though.
