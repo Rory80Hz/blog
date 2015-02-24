@@ -45,7 +45,7 @@ Ok, so i've suggested what an architect isn't, and hinted at what they are, so l
 
 An Architect is someone with sufficient experience to make decisions and guide others in the right direction, balancing dogmatism and pragmatism, know that they don't know everything, understand that they have more they can learn, and above all else understand how they can use others experience and knowledge to guide their decision making.
 
-What they *do* is guide teams, leverage their experience to harness the expertise of the other people they work with to the fore, and understand, and communicate the wider context in which problems are being solved, and how best to solve them.
+What they *do* is guide teams, leverage their experience to harness the expertise of the other people they work with to adapt and improve a solution, and understand, and communicate the wider context in which problems are being solved, and how best to solve them.
 
 Ultimately this may result in decisions getting made on data stores, communication protocols, layers, message buses etc. but that is not the unit of work you deal with, you deal with people, to get the best out of them, to arrive at the finest possible solution you can.
 
