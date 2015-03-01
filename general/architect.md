@@ -53,4 +53,4 @@ For me, the ability to do this diminishes the further away you are from the peop
 
 Just because we use the term Architecture for the bits of the system that are difficult to change, and, of itself, it is a good word to describe that, it does not mean that one person is the Architect, because really, the role you are fulfilling is way more than that.
 
-So, really, Architect is a shit word for that role...not sure quite what is though.
+So, really, Architect is a shit word for that role...not sure quite what a good word for it is though.
